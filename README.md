@@ -21,3 +21,16 @@ When?: 21 de novembro de 2024.
 Who?: Todos os integrantes do grupo.
 How?: Divisão de tarefas entre os integrantes, de acordo com os trabalhos designados na sala de aula.
 How Much?: Não há custos materiais.
+
+*Requisitos funcionais*:
+-Barra de menu (cursos, projetos, Sobre nós, fale conosco)
+-Possuir lupa de buscar
+-Opção de login e senha de acesso
+-Banco de dados
+-Cards com os projetos no Home
+-Responsividade
+-Barra de pesquisa por nome e por curso
+
+*Requisitos não funcionais*:
+-O Design básico seguindo a identidade visual da IBMEC
+-Informação da função da pessoa no projeto e duração
